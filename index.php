@@ -28,6 +28,7 @@
         <a href="login.php">Login</a>
         <a href="daftar.php">Daftar</a>
         <!-- <a href="menu.php">Menu</a> -->
+         
         <!-- <a href="contact.php">Kontak</a> -->
       </div>
 
